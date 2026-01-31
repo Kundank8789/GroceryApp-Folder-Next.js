@@ -65,29 +65,16 @@ JWT_SECRET=your_jwt_secret
 Run the development server:
 
 npm run dev
-# or
-yarn dev
-
-
-Open http://localhost:3000
- in your browser to view the application.
-
-🧪 Testing
-
-To run tests:
-
-npm run test
-# or
-yarn test
 
 📸 Screenshots
 
 
 Home page showcasing featured products.
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-31 212221" src="https://github.com/user-attachments/assets/e42e02e3-b6a7-48cc-b5b7-7ffaef4fb32b" />
 
 Detailed view of a selected product.
-
+<img width="1920" height="1080" alt="Screenshot 2026-01-06 163639" src="https://github.com/user-attachments/assets/0f2e9ded-b7e6-4a5c-b858-3e9abd6b6bfe" />
 
 Shopping cart with selected items.
 
